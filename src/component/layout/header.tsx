@@ -76,7 +76,7 @@ const Header: FC = () => {
       </Group>
 
       {/* Profile Avatar */}
-      <Anchor href="https://github.com/your-repo-link" target="_blank">
+      <Anchor href="https://github.com/globaltechgirl/tipost" target="_blank">
         <Avatar
           src={profile}
           alt="Onyinye Ofili"
