@@ -47,7 +47,7 @@ Build a small **Post Manager** application with full CRUD functionality using th
 
 2. **Clone the repository**
 git clone <https://github.com/globaltechgirl/tipost>
-cd <tipoost>
+cd tipoost
 
 2. **Install dependencies**
 npm install
