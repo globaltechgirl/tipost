@@ -45,12 +45,11 @@ Build a small **Post Manager** application with full CRUD functionality using th
 
 ## Setup Instructions
 
-1. **Clone the repository**
-```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
-
 2. **Clone the repository**
+git clone <https://github.com/globaltechgirl/tipost>
+cd <tipoost>
+
+2. **Install dependencies**
 npm install
 
 3. **Run the development server**
